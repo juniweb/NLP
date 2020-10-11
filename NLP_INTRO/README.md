@@ -2,6 +2,7 @@
 
 유원준 님의 [딥 러닝을 위한 자연어 처리 입문](https://wikidocs.net/book/2155) 자료에 대한 학습
 
+## 참고자료
   - [PyTorch 학습자료](https://wikidocs.net/book/2788)
   - [딥 러닝 자연어 처리를 학습을 위한 파워포인트](https://www.slideshare.net/wonjoonyoo/ss-188835227)
   - [딥러닝 추천 자료](https://www.d2l.ai/index.html)
